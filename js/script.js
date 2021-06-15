@@ -183,6 +183,7 @@ $(
       $('.l-header__logoWrap').removeClass('header-is-active');
       $('.l-header__logoImg').removeClass('header-is-active');
       $('.l-header__wrap').removeClass('header-is-active');
+      $('#js-hamburger__toggle').removeClass('is-active');
     });
   })()
 );
